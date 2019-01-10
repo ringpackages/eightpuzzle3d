@@ -25,7 +25,7 @@ aPackageInfo = [
 			:providerusername = ""
 		],
 		[
-			:name = "opengl21",
+			:name = "ringopengl21",
 			:version = "1.0",
 			:providerusername = ""
 		],
