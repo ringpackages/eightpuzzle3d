@@ -23,6 +23,16 @@ aPackageInfo = [
 			:name = "stdlib",
 			:version = "1.0",
 			:providerusername = ""
+		],
+		[
+			:name = "opengl21",
+			:version = "1.0",
+			:providerusername = ""
+		],
+		[
+			:name = "ringallegro",
+			:version = "1.0",
+			:providerusername = ""
 		]
 	],
 	:files = 	[
