@@ -15,16 +15,6 @@ aPackageInfo = [
 	],
 	:libs = 	[
 		[
-			:name = "ringqt",
-			:version = "1.0",
-			:providerusername = ""
-		],
-		[
-			:name = "stdlib",
-			:version = "1.0",
-			:providerusername = ""
-		],
-		[
 			:name = "ringopengl21",
 			:version = "1.0",
 			:providerusername = ""
