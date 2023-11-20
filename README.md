@@ -1,10 +1,10 @@
-# FifteenPuzzle3D
+# EightPuzzle3D
 
-FifteenPuzzle3D package for the Ring programming language
+EightPuzzle3D package for the Ring programming language
 
 ## Install
 
-	ringpm install fifteenpuzzle3d
+	ringpm install eightpuzzle3d
 
 ## Author
 
