@@ -1,15 +1,15 @@
 aPackageInfo = [
-	:name = "The FifteenPuzzle3D Package",
-	:description = "Our FifteenPuzzle3D package using the Ring programming language",
-	:folder = "fifteenpuzzle3d",
+	:name = "The EightPuzzle3D Package",
+	:description = "Our EightPuzzle3D package using the Ring programming language",
+	:folder = "eightpuzzle3d",
 	:developer = "Mahmoud Fayed",
 	:email = "msfclipper@yahoo.com",
 	:license = "MIT License",
-	:version = "1.0.3",
+	:version = "1.0.4",
 	:ringversion = "1.13",
 	:versions = 	[
 		[
-			:version = "1.0.3",
+			:version = "1.0.4",
 			:branch = "master"
 		]
 	],
@@ -30,19 +30,19 @@ aPackageInfo = [
 		"README.md"
 	],
 	:ringfolderfiles = 	[
-		"applications/fifteenpuzzle3d/FifteenPuzzleGame3D.ring",
-		"applications/fifteenpuzzle3d/image/back.jpg",
-		"applications/fifteenpuzzle3d/image/empty.png",
-		"applications/fifteenpuzzle3d/image/n1.jpg",
-		"applications/fifteenpuzzle3d/image/n2.jpg",
-		"applications/fifteenpuzzle3d/image/n3.jpg",
-		"applications/fifteenpuzzle3d/image/n4.jpg",
-		"applications/fifteenpuzzle3d/image/n5.jpg",
-		"applications/fifteenpuzzle3d/image/n6.jpg",
-		"applications/fifteenpuzzle3d/image/n7.jpg",
-		"applications/fifteenpuzzle3d/image/n8.jpg",
-		"applications/fifteenpuzzle3d/README.md",
-		"applications/fifteenpuzzle3d/sound/music1.wav"
+		"applications/eightpuzzle3d/EightPuzzleGame3D.ring",
+		"applications/eightpuzzle3d/image/back.jpg",
+		"applications/eightpuzzle3d/image/empty.png",
+		"applications/eightpuzzle3d/image/n1.jpg",
+		"applications/eightpuzzle3d/image/n2.jpg",
+		"applications/eightpuzzle3d/image/n3.jpg",
+		"applications/eightpuzzle3d/image/n4.jpg",
+		"applications/eightpuzzle3d/image/n5.jpg",
+		"applications/eightpuzzle3d/image/n6.jpg",
+		"applications/eightpuzzle3d/image/n7.jpg",
+		"applications/eightpuzzle3d/image/n8.jpg",
+		"applications/eightpuzzle3d/README.md",
+		"applications/eightpuzzle3d/sound/music1.wav"
 	],
 	:windowsfiles = 	[
 
